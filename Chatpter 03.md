@@ -12,6 +12,7 @@
 The U.S. established diplomatic relations with the P.R.C in 1979.
 美国与中华人民共和国于1979年建交。
 ```
-<div style="text-align: center;">
-	<img style="width: 300px" src="./images/1.png">
-</div>
+
+<p align="center">
+  <img style="width: 300px" src="./images/1.png" />
+</p>
