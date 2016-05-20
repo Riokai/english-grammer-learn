@@ -60,3 +60,12 @@ It happened in June 1932.
 
 My watch stopped.
 ```
+
+### `hava`/`has`的用法
+
+`hava`用于第一人称(`I`, `We`)，第二人称(`you`)和第三人称复数(`they`)
+
+`has`用于第三人称单数(`he`, `she`, `it`)或单数名词
+
+
+
